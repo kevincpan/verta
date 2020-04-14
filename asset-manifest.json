@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/verta/static/css/main.2d93bd4e.chunk.css",
+    "main.js": "/verta/static/js/main.1700fe3e.chunk.js",
+    "main.js.map": "/verta/static/js/main.1700fe3e.chunk.js.map",
+    "runtime-main.js": "/verta/static/js/runtime-main.b392d7ad.js",
+    "runtime-main.js.map": "/verta/static/js/runtime-main.b392d7ad.js.map",
+    "static/js/2.24c63335.chunk.js": "/verta/static/js/2.24c63335.chunk.js",
+    "static/js/2.24c63335.chunk.js.map": "/verta/static/js/2.24c63335.chunk.js.map",
+    "index.html": "/verta/index.html",
+    "precache-manifest.da93a057a88f0a9320e1102db595a6fd.js": "/verta/precache-manifest.da93a057a88f0a9320e1102db595a6fd.js",
+    "service-worker.js": "/verta/service-worker.js",
+    "static/css/main.2d93bd4e.chunk.css.map": "/verta/static/css/main.2d93bd4e.chunk.css.map",
+    "static/js/2.24c63335.chunk.js.LICENSE.txt": "/verta/static/js/2.24c63335.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b392d7ad.js",
+    "static/js/2.24c63335.chunk.js",
+    "static/css/main.2d93bd4e.chunk.css",
+    "static/js/main.1700fe3e.chunk.js"
+  ]
+}
